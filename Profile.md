@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Christy678
 - 
-Hi my name is Christina and this is a repository to showcase my work.
-
+Hi my name is Christina. This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. 
 
 Tableau - https://public.tableau.com/app/profile/christinab.
 
